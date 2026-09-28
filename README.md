@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on more representative appearance of my github and EmployMe project 
+- 🔭 I’m currently working on more representative appearance of my github and [EmployMe](https://github.com/nupolovykh/EmployMe) project 
 - 🌱 I’m currently learning new AI workflows which are actual for 2026 to be in charge. 
 - 👯 I’m looking to collaborate on something significant
 - 🤔 I’m looking for help with EmplOYmEnt and MEanIng ;)
